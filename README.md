@@ -11,6 +11,6 @@ second, Dynamic Web Project - A web services build using Jersey and RESRful serv
 Then I will change the project to be build on Spring Framework using MongoDB to achive the same goals
 
 
-##the client logic will be build on HTML, CSS, JavaScript - Bootstrap and AngularJS.
+##the client logic will be built on HTML, CSS, JavaScript - Bootstrap and AngularJS.
 ----------------------------------------------------------------------------------  
-to achive single page application
+to achive a single page application
